@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![image](https://github.com/Adamuyahayawalid/Adamuyahayawalid/assets/120284616/5f8d1720-85b1-49af-afd9-967837cee25f)
+
+![image](https://github.com/Adamuyahayawalid/Adamuyahayawalid/assets/120284616/4be26c6d-638b-40ef-a687-1f7200c1f8ee)
 
 
 
