@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<!--
+![WhatsApp Image 2024-02-29 at 14 45 34_bc0301a6](https://github.com/Adamuyahayawalid/Adamuyahayawalid/assets/120284616/08c312ac-e396-41f1-a191-a9297773359d)
+
+
 **Adamuyahayawalid/Adamuyahayawalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
